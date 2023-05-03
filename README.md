@@ -1,4 +1,6 @@
-
+<div id="mainGif">
+    <img src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/giphy.gif" alt="mainGif">
+</div>
 ### Hi there 👋
 
 <!--
