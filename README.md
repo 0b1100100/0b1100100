@@ -2,6 +2,8 @@
     <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="mainGif">
 </div>
 
+---
+
 ### :man_technologist: About Me :
 I am a Full Stack Developer :shark: from Siberia.
 
