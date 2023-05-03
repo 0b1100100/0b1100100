@@ -24,5 +24,7 @@ I am a Full Stack Developer :shark: from Siberia.
 
 
 ### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0b1100100&theme=nightowl&card_width=497)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0b1100100&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0b1100100&theme=nightowl&card_width=500)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0b1100100&layout=compact&theme=nightowl&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
