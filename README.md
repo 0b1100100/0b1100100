@@ -4,15 +4,15 @@
 
 ---
 
-### :man_technologist: About Me :
+### Hi there 👋
 
-- I am a Full Stack Developer from Siberia.
+- I am a Full Stack Developer from Siberia 👨‍💻
 
 - I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- Exploring Technical Content Writing.
+- Exploring Technical Content Writing 📃
 
-- In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- You can find me on [Telegram](https://t.me/0b1100100)
 
 ---
 
