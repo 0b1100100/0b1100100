@@ -1,18 +1,6 @@
-<div id="mainGif" align="center">
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="mainGif">
-</div>
-
----
-
 ### Hi there 👋
 
-- I am a Full Stack Developer from Siberia 👨‍💻
-
-- I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- Exploring Technical Content Writing 📃
-
-- You can find me on [Telegram](https://t.me/0b1100100)
+I am a self-taughted Full Stack Developer from Siberia 👨‍💻
 
 ---
 
