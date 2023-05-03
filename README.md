@@ -1,9 +1,10 @@
 <div id="mainGif" align="center">
-    <img src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/giphy.gif" alt="mainGif">
+    <img src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw" alt="mainGif">
 </div>
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer :shark: from Siberia.
+
 
 ### :hammer_and_wrench: Languages and Tools :  
 <div>
@@ -21,8 +22,7 @@ I am a Full Stack Developer :shark: from Siberia.
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
+
 ### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0b1100100&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0b1100100&theme=nightowl&card_width=497)](https://git.io/streak-stats)
 
