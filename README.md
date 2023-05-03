@@ -1,7 +1,9 @@
-<div id="mainGif">
+<div id="mainGif" align="center">
     <img src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/giphy.gif" alt="mainGif">
 </div>
-### Hi there 👋
+
+### :man_technologist: About Me :
+I am a Full Stack Developer :shark:
 
 <!--
 **0b1100100/0b1100100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
