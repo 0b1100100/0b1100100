@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-I am a self-taught Software Developer👨‍💻
+## I am a <i>self-taught</i> software developer👨‍💻
 
 ---
 
@@ -8,23 +8,23 @@ I am a self-taught Software Developer👨‍💻
 ### :hammer_and_wrench: Languages and Tools :  
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" 
-    title="python" alt="python" width="60" height="60"/>&nbsp;
+    title="python" alt="python" width="55" height="55"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" 
-    title="django" alt="django" width="60" height="60"/>&nbsp;
+    title="django" alt="django" width="55" height="55"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" 
-    title="fastapi" alt="fastapi" width="60" height="60"/>&nbsp;
+    title="fastapi" alt="fastapi" width="55" height="55"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" 
-    title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
+    title="MySQL"  alt="MySQL" width="55" height="55"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" 
-    title="postgres"  alt="postgres" width="60" height="60"/>&nbsp;
+    title="postgres"  alt="postgres" width="55" height="55"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" 
-    title="redis"  alt="redis" width="60" height="60"/>&nbsp;
+    title="redis"  alt="redis" width="55" height="55"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" 
-    title="docker"  alt="docker" width="60" height="60"/>&nbsp;
+    title="docker"  alt="docker" width="55" height="55"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
-    title="linux"  alt="linux" width="60" height="60"/>&nbsp;
+    title="linux"  alt="linux" width="55" height="55"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" 
-    title="Git" **alt="Git" width="60" height="60"/>
+    title="Git" **alt="Git" width="55" height="55"/>
 </div>
 
 ---
