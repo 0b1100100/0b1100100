@@ -25,6 +25,6 @@ I am a self-taughted full stack developer from Siberia 👨‍💻
 
 
 ### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0b1100100&theme=nightowl&hide_border=true&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=funnydevelopment&theme=nightowl&hide_border=true&card_width=900)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0b1100100&layout=compact&theme=nightowl&hide_border=true&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funnydevelopment&layout=compact&theme=nightowl&hide_border=true&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
