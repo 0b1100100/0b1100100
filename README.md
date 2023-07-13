@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a self-taughted full stack developer from Siberia 👨‍💻
+I am a self-taughted full stack developer👨‍💻
 
 ---
 
